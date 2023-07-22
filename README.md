@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Parul-Gupta-16">
+                    <img src="https://avatars.githubusercontent.com/u/126894733?v=4" width="100px;" alt="Parul Gupta"/>
+                    <br />
+                    <sub><b>Parul Gupta</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
